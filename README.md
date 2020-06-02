@@ -5,4 +5,6 @@ Should be used in conjunction with dmenubooks.
 Configuration can be done inside config/config.go
 MediaRoot should be set to the path where the server will start looking for books.
 ## TODO
-Support for files with spaces in name
+- Support for files with spaces in name
+- Add support to run as daemon
+- create systemd unit file
